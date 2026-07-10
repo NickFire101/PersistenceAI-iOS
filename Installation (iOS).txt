@@ -1,0 +1,9 @@
+Installation.txt
+
+How to install PersistenceAI on Swift Playgrounds?:
+
+	1.	Download the ZIP
+	2.	Tap on the app
+	3.	Allow Photo/Files usage
+	4.	Enjoy!
+
