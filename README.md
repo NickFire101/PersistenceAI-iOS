@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="Images/logo.png" alt="PersistenceAI Logo" width="140">
+<img src="IMG_2334.png" alt="PersistenceAI Logo" width="140">
 
 ### A Modern Native AI Assistant for iOS
 
