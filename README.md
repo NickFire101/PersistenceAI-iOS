@@ -275,8 +275,8 @@ Benefits:
 
 * iPhone
 * iPad
-* Mac (future)
-* Vision Pro (future)
+* Mac
+* Vision Pro (Fully Unsupported)
 
 ---
 
