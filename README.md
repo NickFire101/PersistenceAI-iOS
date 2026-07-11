@@ -353,18 +353,6 @@ If you enjoy PersistenceAI, consider supporting the project by:
 
 ---
 
-# ❤️ Buy Me a Coffee
-
-If PersistenceAI has been helpful to you and you'd like to support future development, you can buy me a coffee.
-
-<a href="https://buymeacoffee.com/YOUR_USERNAME">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=YOUR_USERNAME&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee">
-</a>
-
-Replace **YOUR_USERNAME** with your Buy Me a Coffee username.
-
----
-
 # 📄 License
 
 This project is licensed under the MIT License.
