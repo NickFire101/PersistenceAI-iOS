@@ -154,7 +154,7 @@ PersistenceAI/
 ## Clone
 
 ```bash
-git clone https://github.com/USERNAME/PersistenceAI.git
+git clone https://github.com/NickFire101/PersistenceAI-iOS.git
 ```
 
 ---
