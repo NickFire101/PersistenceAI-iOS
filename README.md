@@ -1,95 +1,63 @@
-# <p align="center"><img src="IMG_2334.png" width="140" alt="PersistenceAI Logo"></p>
+# <p align="center"><img src="./IMG_2334.png" width="140" alt="PersistenceAI Logo"></p>
 
 <h1 align="center">PersistenceAI</h1>
 
 <p align="center">
-A modern, offline-first AI assistant built with SwiftUI for iPhone and iPad.
+A native SwiftUI AI application for iPhone and iPad.
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Platform-iOS%2016.2+-007AFF?style=for-the-badge" alt="Platform">
-<img src="https://img.shields.io/badge/Swift-5.9-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
-<img src="https://img.shields.io/badge/SwiftUI-Native-34C759?style=for-the-badge" alt="SwiftUI">
-<img src="https://img.shields.io/badge/License-Apache%202.0-blue?style=for-the-badge" alt="License">
+<img src="https://img.shields.io/badge/iOS-16.2%2B-007AFF?style=for-the-badge&logo=apple&logoColor=white">
+<img src="https://img.shields.io/badge/Swift-5.9-F05138?style=for-the-badge&logo=swift&logoColor=white">
+<img src="https://img.shields.io/badge/SwiftUI-Native-34C759?style=for-the-badge">
+<img src="https://img.shields.io/badge/License-Apache%202.0-blue?style=for-the-badge">
 </p>
 
 <p align="center">
-Native • Offline-First • SwiftUI • iPhone & iPad
+Developed by <strong>Elijah</strong>
 </p>
 
 ---
 
-## 📱 Preview
+## Screenshots
 
 ### Home
 
 <p align="center">
-<img src="IMG-2432.jpeg" alt="PersistenceAI Home Screen">
+<img src="./IMG-2432.jpeg" alt="PersistenceAI Home">
 </p>
 
 ### Settings
 
 <p align="center">
-<img src="IMG-2434.jpeg" alt="PersistenceAI Settings Screen">
+<img src="./IMG-2434.jpeg" alt="PersistenceAI Settings">
 </p>
 
 ---
 
 # About
 
-PersistenceAI is a native SwiftUI AI assistant designed for Apple platforms. The application focuses on providing a clean, responsive chat experience with customizable AI settings while maintaining a modern Apple-inspired interface.
+PersistenceAI is a SwiftUI application built for Apple platforms. The project provides a native AI chat experience with a modular architecture, conversation management, configurable settings, and support for image attachments.
 
-Built entirely in Swift, PersistenceAI uses Swift Package Manager and follows a modular project structure for maintainability.
+The codebase is organized using Swift Package Manager and is designed around reusable SwiftUI components.
 
 ---
 
 # Features
 
-* 💬 Native AI chat interface
-* 🗂️ Multiple chat conversations
-* 📝 Conversation history
-* ⚙️ Dedicated Settings page
-* 🌙 Light & Dark Mode support
-* 🎛️ Adjustable AI temperature
-* 🔢 Adjustable maximum token limit
-* ✨ Custom system prompt configuration
-* 📤 Export AI data
-* 📷 Photo Library integration
-* 📄 Syntax highlighting for code blocks
-* 📱 Native SwiftUI interface
-* 📲 Universal iPhone & iPad support
-* 🔄 Portrait & Landscape support
-
----
-
-# Built With
-
-* Swift
-* SwiftUI
-* Swift Package Manager
-* HighlightSwift
-
----
-
-# Requirements
-
-| Component | Requirement                |
-| --------- | -------------------------- |
-| iOS       | 16.2 or later              |
-| Swift     | 5.9                        |
-| IDE       | Swift Playgrounds or Xcode |
-
----
-
-# Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/<your-username>/PersistenceAI.git
-```
-
-Open the project in Swift Playgrounds or Xcode and build the application.
+* Native SwiftUI interface
+* AI chat interface
+* Conversation management
+* Sidebar navigation
+* Settings screen
+* Message bubbles
+* Thinking indicator
+* Image attachment support
+* Image detection
+* Multiple AI model definitions
+* GitHub Models API service
+* Modular Swift Package Manager project structure
+* Universal support for iPhone and iPad
 
 ---
 
@@ -111,32 +79,39 @@ PersistenceAI
 
 ---
 
-# Permissions
+# Requirements
 
-PersistenceAI requests access to:
-
-* Photo Library
-
----
-
-# Supported Devices
-
-* iPhone
-* iPad
+| Component             | Version       |
+| --------------------- | ------------- |
+| iOS                   | 16.2 or later |
+| Swift                 | 5.9           |
+| Swift Package Manager | Included      |
 
 ---
 
-# Version
+# Installation
 
-**Current Version:** **1.3.5**
+```bash
+git clone https://github.com/NickFire101/PersistenceAI-iOS.git
+```
+
+Open the project in Swift Playgrounds or Xcode, resolve package dependencies if necessary, then build and run.
+
+---
+
+# Repository
+
+GitHub Repository:
+
+**https://github.com/NickFire101/PersistenceAI-iOS**
 
 ---
 
 # Author
 
-### Elijah
+**Elijah**
 
-Designed and developed by **Elijah**.
+GitHub: **https://github.com/NickFire101**
 
 ---
 
@@ -144,7 +119,7 @@ Designed and developed by **Elijah**.
 
 Copyright © 2026 Elijah.
 
-Licensed under the **Apache License, Version 2.0** (the "License"); you may not use this project except in compliance with the License.
+Licensed under the **Apache License, Version 2.0**.
 
 You may obtain a copy of the License at:
 
@@ -156,21 +131,6 @@ See the **LICENSE** file for the complete license text.
 
 ---
 
-## Contributing
-
-Contributions are welcome. Please open an issue to discuss significant changes before submitting a pull request.
-
----
-
-## Acknowledgements
-
-* Apple
-* Swift
-* SwiftUI
-* HighlightSwift
-
----
-
 <p align="center">
-Built with ❤️ in Swift by <strong>Elijah</strong>
+Made with Swift ❤️
 </p>
