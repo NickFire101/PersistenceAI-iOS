@@ -326,3 +326,11 @@ Apache License
 <p align="center">
 Made with Swift ❤️
 </p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/sponsors/NickFire101">
+    <img src="https://img.shields.io/badge/Become%20a%20Backer-💖-ff69b4?style=for-the-badge" alt="Become a Backer">
+  </a>
+</p>
