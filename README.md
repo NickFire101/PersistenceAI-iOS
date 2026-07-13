@@ -329,7 +329,7 @@ Apache License
 If you enjoy using PersistenceAI and would like to support its continued development, you can buy me a coffee.
 
 <p align="center">
-  <a href="https://buymeacoffee.com/YOUR_USERNAME">
+  <a href="https://buymeacoffee.com/NickFire101">
     <img src="https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-Support%20the%20Project-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" alt="Buy Me a Coffee">
   </a>
 </p>
