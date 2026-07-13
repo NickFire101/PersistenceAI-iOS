@@ -1,380 +1,176 @@
-# <img src="IMG_2334.png" alt="PersistenceAI Logo" width="120"/>
+# <p align="center"><img src="IMG_2334.png" width="140" alt="PersistenceAI Logo"></p>
 
-# PersistenceAI
+<h1 align="center">PersistenceAI</h1>
 
-**PersistenceAI** is a modern AI assistant for Apple platforms built entirely with **SwiftUI**. It is designed to be fast, lightweight, elegant, and privacy-focused while delivering a beautiful native Apple experience.
+<p align="center">
+A modern, offline-first AI assistant built with SwiftUI for iPhone and iPad.
+</p>
 
-Inspired by the newest Apple design language, PersistenceAI combines powerful AI conversations with a clean interface that feels right at home on iOS.
+<p align="center">
+<img src="https://img.shields.io/badge/Platform-iOS%2016.2+-007AFF?style=for-the-badge" alt="Platform">
+<img src="https://img.shields.io/badge/Swift-5.9-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
+<img src="https://img.shields.io/badge/SwiftUI-Native-34C759?style=for-the-badge" alt="SwiftUI">
+<img src="https://img.shields.io/badge/License-Apache%202.0-blue?style=for-the-badge" alt="License">
+</p>
 
----
-
-# ✨ Features
-
-## 🤖 Intelligent AI Assistant
-
-* Natural conversations
-* Context-aware responses
-* Fast message generation
-* Markdown rendering
-* Code highlighting
-* Long conversation support
-* Streaming responses
-* Modern chat interface
+<p align="center">
+Native • Offline-First • SwiftUI • iPhone & iPad
+</p>
 
 ---
 
-## 🌤️ Weather Intelligence
+## 📱 Preview
 
-PersistenceAI can understand weather-related questions and provide weather information including:
+### Home
 
-* Current temperature
-* Weather conditions
-* Humidity
-* Wind speed
-* Sunrise
-* Sunset
-* Feels like temperature
-* Rain chance
-* Daily forecasts
+<p align="center">
+<img src="IMG-2432.jpeg" alt="PersistenceAI Home Screen">
+</p>
 
-Example:
+### Settings
 
-> "What's the weather today?"
+<p align="center">
+<img src="IMG-2434.jpeg" alt="PersistenceAI Settings Screen">
+</p>
 
 ---
 
-## 📱 Native Apple Experience
+# About
 
-Built using native Swift technologies.
+PersistenceAI is a native SwiftUI AI assistant designed for Apple platforms. The application focuses on providing a clean, responsive chat experience with customizable AI settings while maintaining a modern Apple-inspired interface.
 
-* SwiftUI
-* Observation
-* Async/Await
-* URLSession
-* Modern Navigation
-* SF Symbols
-* Glass Effects (iOS 26)
-* Smooth animations
-
-No unnecessary complexity.
+Built entirely in Swift, PersistenceAI uses Swift Package Manager and follows a modular project structure for maintainability.
 
 ---
 
-## 💬 Beautiful Chat Interface
+# Features
 
-Designed with readability in mind.
-
-Features include:
-
-* User & AI bubbles
-* Auto scrolling
-* Markdown support
-* Code blocks
-* Copy messages
-* Typing indicator
-* Animated responses
-* Native gestures
-
----
-
-## ⚡ Fast Performance
-
-PersistenceAI focuses on performance.
-
-* Lightweight architecture
-* Native rendering
-* Efficient networking
-* Optimized updates
-* Low memory usage
+* 💬 Native AI chat interface
+* 🗂️ Multiple chat conversations
+* 📝 Conversation history
+* ⚙️ Dedicated Settings page
+* 🌙 Light & Dark Mode support
+* 🎛️ Adjustable AI temperature
+* 🔢 Adjustable maximum token limit
+* ✨ Custom system prompt configuration
+* 📤 Export AI data
+* 📷 Photo Library integration
+* 📄 Syntax highlighting for code blocks
+* 📱 Native SwiftUI interface
+* 📲 Universal iPhone & iPad support
+* 🔄 Portrait & Landscape support
 
 ---
 
-## 🎨 Modern UI
-
-The interface follows Apple's newest design language.
-
-Features include:
-
-* Glass Effects
-* Blur materials
-* Rounded cards
-* Smooth transitions
-* Dynamic colors
-* Dark Mode
-* Light Mode
-* Responsive layouts
-
----
-
-# 📸 Screenshots
-
-## Chat
-
-<img src="IMG_2432.jpeg" width="300">
-
----
-
-## Settings
-
-<img src="IMG_2434.jpeg" width="300">
-
----
-
-# 🏗️ Project Structure
-
-```text
-PersistenceAI/
-
-├── App/
-├── Models/
-├── Views/
-├── ViewModels/
-├── Services/
-├── Networking/
-├── Weather/
-├── Utilities/
-├── Assets.xcassets/
-├── PersistenceAIApp.swift
-└── README.md
-```
-
----
-
-# 🚀 Getting Started
-
-## Requirements
-
-* macOS
-* Xcode 26 or newer
-* iOS 26 SDK
-* Swift 6+
-
----
-
-## Clone
-
-```bash
-git clone https://github.com/NickFire101/PersistenceAI-iOS.git
-```
-
----
-
-## Open
-
-```bash
-open PersistenceAI.xcodeproj
-```
-
----
-
-## Run
-
-Choose your simulator.
-
-Press
-
-```
-⌘ + R
-```
-
-Enjoy.
-
----
-
-# ⚙️ Technologies
+# Built With
 
 * Swift
 * SwiftUI
-* Observation
-* Foundation
-* URLSession
-* Markdown
-* Async/Await
+* Swift Package Manager
+* HighlightSwift
 
 ---
 
-# 📖 Example Conversation
+# Requirements
 
-**You**
-
-```
-What's the weather today?
-```
-
-**PersistenceAI**
-
-```
-Today is mostly sunny with a temperature of 31°C.
-Humidity is 63% with light winds.
-```
+| Component | Requirement                |
+| --------- | -------------------------- |
+| iOS       | 16.2 or later              |
+| Swift     | 5.9                        |
+| IDE       | Swift Playgrounds or Xcode |
 
 ---
 
-**You**
+# Installation
 
-```
-Explain SwiftUI animations.
+Clone the repository:
+
+```bash
+git clone https://github.com/<your-username>/PersistenceAI.git
 ```
 
-**PersistenceAI**
-
-```
-SwiftUI animations allow your views to smoothly transition between state changes using built-in animation APIs.
-```
+Open the project in Swift Playgrounds or Xcode and build the application.
 
 ---
 
-# 🎯 Goals
-
-PersistenceAI aims to provide:
-
-* Beautiful design
-* Excellent performance
-* Native experience
-* Reliable AI
-* Useful utilities
-* Easy maintenance
-
----
-
-# 🧩 Architecture
-
-PersistenceAI follows a clean architecture.
+# Project Structure
 
 ```text
-View
-
-↓
-
-ViewModel
-
-↓
-
-Service
-
-↓
-
-Networking
-
-↓
-
-AI Provider
+PersistenceAI
+├── App
+├── Chat
+├── Models
+├── Photos_Files
+├── Resources
+├── Service
+├── State
+├── Tabs
+├── Think
+└── View
 ```
-
-Benefits:
-
-* Easy to maintain
-* Testable
-* Reusable
-* Modular
-* Scalable
 
 ---
 
-# 🌍 Supported Platforms
+# Permissions
+
+PersistenceAI requests access to:
+
+* Photo Library
+
+---
+
+# Supported Devices
 
 * iPhone
 * iPad
-* Mac
-* Vision Pro (Fully Unsupported)
 
 ---
 
-# 🔒 Privacy
+# Version
 
-Privacy comes first.
-
-PersistenceAI does not sell your personal information.
-
-Depending on your chosen AI provider, messages may be securely transmitted for generating responses.
-
-Always review the privacy policy of your selected AI service.
+**Current Version:** **1.3.5**
 
 ---
 
-# 🛣️ Roadmap
+# Author
 
-### Planned
+### Elijah
 
-* Better streaming
-* Multiple AI providers
-* Conversation search
-* Voice input
-* Voice output
-* Image generation
-* File analysis
-* PDF support
-* Camera support
-* Widget support
-* Shortcuts integration
-* Apple Intelligence enhancements
-* Vision Pro support
-* macOS version
+Designed and developed by **Elijah**.
 
 ---
 
-# 🤝 Contributing
+# License
 
-Contributions are always welcome.
+Copyright © 2026 Elijah.
 
-You can help by:
+Licensed under the **Apache License, Version 2.0** (the "License"); you may not use this project except in compliance with the License.
 
-* Fixing bugs
-* Improving documentation
-* Suggesting features
-* Creating pull requests
-* Improving performance
+You may obtain a copy of the License at:
 
-Please keep code clean, readable, and well documented.
+http://www.apache.org/licenses/LICENSE-2.0
 
----
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an **"AS IS" BASIS**, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 
-# 🐛 Reporting Bugs
-
-If you discover a bug, please include:
-
-* Device model
-* iOS version
-* Steps to reproduce
-* Expected result
-* Actual result
-* Screenshots (if possible)
+See the **LICENSE** file for the complete license text.
 
 ---
 
-# ⭐ Support
+## Contributing
 
-If you enjoy PersistenceAI, consider supporting the project by:
-
-* Starring the repository
-* Sharing the project
-* Reporting issues
-* Suggesting improvements
+Contributions are welcome. Please open an issue to discuss significant changes before submitting a pull request.
 
 ---
 
-# 📄 License
+## Acknowledgements
 
-This project is licensed under the MIT License.
-
-See the LICENSE file for details.
-
----
-
-# 👨‍💻 Author
-
-Developed with ❤️ by **OneCloud Developers**.
+* Apple
+* Swift
+* SwiftUI
+* HighlightSwift
 
 ---
 
-# 🌟 PersistenceAI
-
-Fast.
-
-Beautiful.
-
-Native.
-
-Intelligent.
-
-Built for the Apple ecosystem.
+<p align="center">
+Built with ❤️ in Swift by <strong>Elijah</strong>
+</p>
