@@ -19,18 +19,22 @@ Developed by <strong>Elijah</strong>
 
 ---
 
-## Screenshots
-
-### Home
+## 📸 Screenshots
 
 <p align="center">
-<img src="./IMG-2432.jpeg" alt="PersistenceAI Home">
+  <img src="./IMG_2432.jpeg" alt="PersistenceAI Home" width="100%">
 </p>
 
-### Settings
+<p align="center">
+  <em>Home</em>
+</p>
 
 <p align="center">
-<img src="./IMG-2434.jpeg" alt="PersistenceAI Settings">
+  <img src="./IMG_2434.jpeg" alt="PersistenceAI Settings" width="100%">
+</p>
+
+<p align="center">
+  <em>Settings</em>
 </p>
 
 ---
