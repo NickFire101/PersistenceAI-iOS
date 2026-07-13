@@ -321,16 +321,17 @@ Apache License
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
----
-
-<p align="center">
-Made with Swift ❤️
-</p>
 
 ---
 
+## ❤️ Support PersistenceAI
+
+If you enjoy using PersistenceAI and would like to support its continued development, you can buy me a coffee.
+
 <p align="center">
-  <a href="https://github.com/sponsors/NickFire101">
-    <img src="https://img.shields.io/badge/Become%20a%20Backer-💖-ff69b4?style=for-the-badge" alt="Become a Backer">
+  <a href="https://buymeacoffee.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-Support%20the%20Project-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" alt="Buy Me a Coffee">
   </a>
 </p>
+
+Every contribution helps support the ongoing development of PersistenceAI. Thank you for your support!
