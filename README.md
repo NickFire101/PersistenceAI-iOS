@@ -140,15 +140,6 @@ The Home screen provides a clean and distraction-free AI chat experience with a 
 
 The Settings screen allows you to customize AI behavior, configure model preferences, adjust application settings, and personalize your PersistenceAI experience.
 
-
----
-
-## Settings
-
-![Settings](IMG_2434.jpeg)
-
-The Settings page allows you to configure AI preferences, personalize your experience, and manage application settings.
-
 ---
 
 # 📦 Installation
