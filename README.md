@@ -393,9 +393,7 @@ Please ensure that all contributions follow the project's coding style and inclu
 
 If PersistenceAI has helped you, consider supporting its development.
 
-<a href="https://buymeacoffee.com/NickFire101">
-<img src="https://img.buymeacoffee.com/button-api/?text=Buy+Me+A+Coffee&emoji=☕&slug=NickFire101&button_colour=FFDD00&font_colour=000000&outline_colour=000000&coffee_colour=FFFFFF"/>
-</a>
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/NickFire101)
 
 Every contribution helps support ongoing development, bug fixes, new features, and future improvements.
 
