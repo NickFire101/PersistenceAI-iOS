@@ -128,9 +128,18 @@ Highlights include:
 
 ## Home
 
-![Home](IMG_2432.jpeg)
+![Home](IMG_2471.jpeg)
 
-The Home screen provides a clean and distraction-free chat experience with a modern interface designed around SwiftUI and Apple's latest UI technologies.
+The Home screen provides a clean and distraction-free AI chat experience with a modern SwiftUI interface, beautiful Glass UI, and responsive navigation.
+
+---
+
+## Settings
+
+![Settings](IMG_2472.jpeg)
+
+The Settings screen allows you to customize AI behavior, configure model preferences, adjust application settings, and personalize your PersistenceAI experience.
+
 
 ---
 
